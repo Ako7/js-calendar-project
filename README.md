@@ -4,6 +4,8 @@ Jest to projekt opracowany na potrzeby rekrutacji na stanowisko Junior Frontend 
 
 W projekcie zostały spełnione założenia projektowe.
 
+Demo projektu dostępne jest pod adresem https://well-js-test-project.vercel.app/
+
 # Wyniki projektu:
 
 Projekt został oparty o biblioteke react-sheduler.
