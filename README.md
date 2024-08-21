@@ -1,8 +1,6 @@
 # React + Vite
 
-Jest to projekt opracowany na potrzeby rekrutacji na stanowisko Junior Frontend Developer.
-
-W projekcie zostały spełnione założenia projektowe.
+Stworzyłem projekt kalendarza w React, aby zaprezentować swoje umiejętności frontendowe. Aplikacja pozwala na dynamiczne zarządzanie wydarzeniami, z możliwością ich dodawania, edytowania i usuwania. Projekt jest responsywny, co oznacza, że działa dobrze na różnych urządzeniach. Dzięki temu projektowi mogłem pokazać swoje umiejętności w tworzeniu interaktywnych interfejsów użytkownika oraz efektywne zarządzanie stanem aplikacji.
 
 Demo projektu dostępne jest pod adresem https://well-js-test-project.vercel.app/
 
